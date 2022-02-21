@@ -3,4 +3,4 @@
 
 ### Como executar
 
-Cada exercicio deve ser executado em sua pagina Principal que tem a main.
+Cada exercicio deve ser executado em seu pacote de questão  na classe Principal que tem a main.
